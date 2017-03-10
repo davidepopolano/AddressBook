@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contatti</string>
+    <string name="surname">Cognome</string>
+    <string name="telephone">Telefono</string>
+    <string name="e_mail">E-mail</string>
+    <string name="add">Aggiungi</string>
+    <string name="name">Nome</string>
+    <string name="compile">Riempi tutti i campi!</string>
+</resources>
